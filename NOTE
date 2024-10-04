@@ -1,0 +1,13 @@
+sudo apt install libpq-dev
+
+sudo apt install libsqlite3-dev
+
+
+alpine:
+
+postgresql-dev
+
+
+
+https://cgit.freedesktop.org/xdg/shared-mime-info/plain/freedesktop.org.xml.in?h=Release-1-9
+
