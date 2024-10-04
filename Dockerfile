@@ -8,6 +8,7 @@ RUN apk add --no-cache -t build-dependencies \
     tzdata \
     curl \
     nodejs \
+    python \
     yarn
 
 WORKDIR /app
